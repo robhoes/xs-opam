@@ -1,0 +1,20 @@
+# vim: set et:
+#
+
+opam-version:   "1.2"
+name:           "xs-toolstack"
+maintainer:     "Christian Lindig <christian.lindig@citrix>"
+authors:        "Christian Lindig <christian.lindig@citrix>"
+homepage:       "https://github.com/xapi-project/xs-opam"
+license:        "BSD"
+depends: [
+  "xapi"
+  "xapi-xenopsd"
+  "xapi-nbd"
+  "vhd-tool"
+  "rrd2csv"
+  "message-switch"
+  "gzip"
+  "forkexec"
+]
+
