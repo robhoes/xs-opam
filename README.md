@@ -1,6 +1,6 @@
 # Opam Repository for XenServer
 
-[![Build Status](https://travis-ci.org/xapi-project/xs-opam.svg?branch=master)](https://travis-ci.org/xapi-project/xs-opam)
+[![Build Status](https://travis-ci.org/xapi-project/xs-opam.svg?branch=407)](https://travis-ci.org/xapi-project/xs-opam)
 
 This [Opam] repository contains the [OCaml] components of the XenServer
 toolstack and their upstream dependencies.
@@ -47,4 +47,7 @@ Packages are organised into namespaces:
 
 Travis builds the entire universe represented by this Opam repository.
 
+[Opam]:   http://opam.ocaml.org
+[OCaml]:  http:/ocaml.org
+[Travis]: https://travis-ci.org/xapi-project/xs-opam
 
